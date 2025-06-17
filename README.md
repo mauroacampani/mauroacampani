@@ -6,12 +6,6 @@
 
  </p>
 
- ### ✨ Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauroacampani" alt="mauroacampani" /> </p>
-
----
-
 
 
 - 🔭 
