@@ -27,7 +27,8 @@
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
+
+https://skillicons.dev/icons?i=js,html,css,wasm
     
   
   <!-- Frameworks -->
