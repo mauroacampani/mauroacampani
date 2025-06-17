@@ -28,7 +28,9 @@
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
-https://skillicons.dev/icons?i=js,html,css,wasm
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
     
   
   <!-- Frameworks -->
