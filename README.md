@@ -12,49 +12,17 @@
   </br>
   <h3>Languages</h3>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
-    alt="Javascript">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
-    alt="HTML5">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
-    alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,js" />
   </a>
     
   
   <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-    width="60px"
-    alt="Spring (Spring-boot)">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-    width="60px"
-    alt="Apache Kafka">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
+  </a>
     &nbsp;&nbsp;&nbsp;
 
   </br>
