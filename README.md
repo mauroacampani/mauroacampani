@@ -56,7 +56,7 @@ Bienvenido/a a mi perfil de GitHub. Soy Analista de Sistemas con interés en des
 ## 📫 Contacto
 
 - 📧 Email: mauroacampani@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/mauroacampani](https://linkedin.com/in/mauroacampani)  
+- 💼 LinkedIn: [linkedin.com/in/mauro-campani/](https://www.linkedin.com/in/mauro-campani/)  
 
 ---
 
