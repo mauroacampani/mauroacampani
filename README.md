@@ -33,7 +33,7 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 
 ## Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=black)
 
