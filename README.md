@@ -11,22 +11,21 @@
 Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
 
 ---
-##  <h1>Stack</h1>
+## 🛠️ <h1>Tecnologías y herramientas</h1>
 
-## 🛠️ Tecnologías y herramientas
+## Lenguajes
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![PHP](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
+## Frameworks
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ---
 
 ## 📊 Estadísticas
