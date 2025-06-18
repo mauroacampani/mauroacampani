@@ -19,7 +19,7 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
 ## Frameworks
 
@@ -27,7 +27,7 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-cccaca?style=flat&logo=flask&logoColor=black)
 ![React](https://img.shields.io/badge/-React-58c4dc?style=flat&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat&logo=vuejs&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat&logo=Vue.js&logoColor=white)
 ---
 
 ## 📊 Estadísticas
