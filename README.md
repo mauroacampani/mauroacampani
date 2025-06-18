@@ -10,7 +10,6 @@
 
 Bienvenido/a a mi perfil de GitHub. Soy Analista de Sistemas con interés en desarrolo de aplicaciones web y en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
 
----
 ## 🛠️ Tecnologías y herramientas
 
 ## <h3>Lenguajes</h3>
