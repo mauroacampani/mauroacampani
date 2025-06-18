@@ -1,90 +1,45 @@
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hola+%2C+Soy+Mauro+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-<p align="left"> 
 
- </p>
+    # 👋 ¡Hola! Soy Mauro
 
+![GitHub followers](https://img.shields.io/github/followers/mauroacampani?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/mauroacampani?style=social)
 
+Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
 
-- 🔭 
-- 🌱 
-- 👯 
-- 💬 
-- 📫
-- 😄
-- ⚡ 
+---
 
-<br>
+## 🛠️ Tecnologías y herramientas
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-<div align="center" width="100">
-  <h1>Stack</h1>
-  
-  <!-- Languages -->
-  </br>
-  <h3>Languages</h3>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,php" />
-  </a>
-    
-  
-  <!-- Frameworks -->
-  </br>
-  <h3>Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue,bootstrap,tailwind" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
+---
 
-  
-  
-  <!-- Storages -->
-  </br>
-  <h3>Storages</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Tools -->
-  </br>
-  <h3>Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-</div>
+## 📊 Estadísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauroacampani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroacampani&layout=compact&theme=radical)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+---
 
-<div align="center">
+## 📫 Contacto
 
+- 📧 Email: tu-email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/mauroacampani)  
+- 🌐 Portfolio: [tusitio.com](https://tusitio.com)
 
-	
-</a>
-</div>
+---
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=mauroacampani&style=flat&color=blue)
 
-
------
-
-<h3 align="center" >Connect with me 🤝 </h3>
-
-<p align="center">
-
-
-</p>
-
-
-	
-
-</div>
-
-
+> Gracias por visitar mi perfil 🚀
