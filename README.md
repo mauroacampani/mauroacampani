@@ -12,7 +12,7 @@ Bienvenido/a a mi perfil de GitHub. Soy Analista de Sistemas con interés en des
 
 ## 🛠️ Tecnologías y herramientas
 
-## <h3>Lenguajes</h3>
+<h3>Lenguajes</h3>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
