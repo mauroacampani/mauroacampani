@@ -26,6 +26,7 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-cccaca?style=flat&logo=flask&logoColor=black)
+![codeigniter](https://img.shields.io/badge/-Codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat&logo=Vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
