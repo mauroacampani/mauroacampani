@@ -43,6 +43,7 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)
 ![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-4daafc?style=flat&logo=VisualStudioCode&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=black)
 ---
 
 ## 📊 Estadísticas
