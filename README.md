@@ -25,6 +25,8 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-009688?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-009688?style=flat&logo=react&logoColor=white)
 ---
 
 ## 📊 Estadísticas
