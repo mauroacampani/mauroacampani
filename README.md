@@ -11,6 +11,7 @@
 Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
 
 ---
+##  <h1>Stack</h1>
 
 ## 🛠️ Tecnologías y herramientas
 
