@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mauroacampani?label=Seguidores&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/mauroacampani?style=social)
 
-Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
+Bienvenido/a a mi perfil de GitHub. Soy Analista de Sistemas con interés en desarrolo de aplicaciones web y en tecnologías modernas y siempre con ganas de aprender cosas nuevas.
 
 ---
 ## 🛠️ Tecnologías y herramientas
