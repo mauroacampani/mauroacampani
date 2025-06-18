@@ -55,9 +55,8 @@ Bienvenido/a a mi perfil de GitHub. Soy desarrollador/a con interés en tecnolog
 
 ## 📫 Contacto
 
-- 📧 Email: tu-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/mauroacampani)  
-- 🌐 Portfolio: [tusitio.com](https://tusitio.com)
+- 📧 Email: mauroacampani@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mauroacampani](https://linkedin.com/in/mauroacampani)  
 
 ---
 
